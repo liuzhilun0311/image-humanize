@@ -1,0 +1,4 @@
+interface:
+  display_name: "图片自然化"
+  short_description: "跨平台图片颗粒与色彩后处理，保护原图，支持透明图片、批量导出及依赖检查"
+  default_prompt: "使用 $image-humanize 处理这些图片，先检查依赖，保留原图，生成自然质感副本并汇报输出。"
